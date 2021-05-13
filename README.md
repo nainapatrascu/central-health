@@ -10,7 +10,7 @@ $ cd central-health
 $ docker-compose up 
 ```
 
-Access the app on:
+Access the app at:
 ```
 http://localhost:8081/hospital.php
 ```
