@@ -14,3 +14,8 @@ Access the app at:
 ```
 http://localhost:8081/hospital.php
 ```
+
+Stop the app:
+```
+$ docker-compose down
+```
