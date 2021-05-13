@@ -1,0 +1,28 @@
+version: "3"
+services:
+  server:
+    image: nainapatrascu/first-service
+    container_name: server
+    links:
+      - db
+    ports:
+      - "5001:5000"
+  client:
+    image: nainapatrascu/client
+    container_name: client
+    ports:
+      - "5000:5000"
+  db:
+    image: nainapatrascu/patients-database
+    container_name: database
+    ports:
+      - "32000:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+  interface:
+    image: nainapatrascu/interface
+    container_name: interface
+    ports:
+      - "8080:80"
+    links:
+      - client
