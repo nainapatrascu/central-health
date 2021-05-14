@@ -12,7 +12,7 @@ $ docker-compose up
 
 Access the app at:
 ```
-http://localhost:8081/hospital.php
+http://localhost:8080/hospital.php
 ```
 
 Stop the app:
