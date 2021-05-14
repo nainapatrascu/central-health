@@ -370,35 +370,23 @@ function showSlides() {
 <div id="Sectii" class="tabcontent">
   <h3>Sectii</h3>
   <h4>1. Cardiologie</h4>
-    ID sectie: 31<br>
-    Numar paturi disponibile: 4<br>
-  <h4>2. Urologie</h4>
-    ID sectie: 77<br>
-    Numar paturi disponibile: 5<br>
-  <h4>3. Chirurgie</h4>
-    ID sectie: 10<br>
-    Numar paturi disponibile: 7<br>
-  <h4>4. Ortopedie</h4>
-    ID sectie: 57<br>
-    Numar paturi disponibile: 5<br>
-  <h4>5. Pneumologie</h4>
-    ID sectie: 65<br>
-    Numar paturi disponibile: 3<br>
-  <h4>6. Psihiatrie</h4>
-    ID sectie: 49<br>
-    Numar paturi disponibile: 6<br>
+    ID sectie: 1<br>
+    Numar paturi disponibile: 14<br>
+  <h4>2. Chirurgie</h4>
+    ID sectie: 2<br>
+    Numar paturi disponibile: 27<br>
+  <h4>3. Ortopedie</h4>
+    ID sectie: 3<br>
+    Numar paturi disponibile: 15<br>
   <h4>7. Neurologie</h4>
-    ID sectie: 11<br>
-    Numar paturi disponibile: 3<br>
-  <h4>8. Ginecologie</h4>
-    ID sectie: 83<br>
-    Numar paturi disponibile: 4<br>
+    ID sectie: 4<br>
+    Numar paturi disponibile: 32<br>
   <h4>9. Pediatrie</h4>
-    ID sectie: 14<br>
-    Numar paturi disponibile: 6<br>
-  <h4>10. Oncologie</h4>
-    ID sectie:25<br>
-    Numar paturi disponibile: 2<br>
+    ID sectie: 5<br>
+    Numar paturi disponibile: 26<br>
+  <h4>10. Psihiatrie</h4>
+    ID sectie: 6<br>
+    Numar paturi disponibile: 12<br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
